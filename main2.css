@@ -1,0 +1,326 @@
+body
+{
+	
+	margin: 0 auto;
+	min-width: 0px;
+}
+
+#nav
+{
+	width: 80px;
+	float: left;
+	position: fixed;
+	text-align: center;
+	vertical-align: middle;
+	height: 380px;
+	background-color: gray;
+}
+#intro
+{
+	background-color: #001540;
+}
+img.nav-button{
+width: 50px;
+height: 50px;
+margin: 0 auto;
+text-align: center;
+vertical-align: middle;
+}
+
+#skills
+{
+	background-color:gray;
+	background-image: url("images/layout3.jpg");
+	width:100%;
+	
+}
+#projects
+{
+	background-color:#333333;
+	background-image: url("images/layout2.jpg");
+	background-position: center center;
+	
+	width:100%;
+	margin: 0 auto;
+}
+#contact
+{
+border: 2px solid black;
+background-color: black;
+color: white;
+font-family: 'Arial';
+float: left;
+width: 100%;
+text-align: center;
+z-index: 5;
+}
+
+div.css-button
+{
+	vertical-align: top;
+	text-align: center;
+	width: 75px;
+	float: left;
+	margin: 2%;
+	border: 1px dotted blue;bgf ;[paddin]
+	display: inline;
+}
+
+#freestyle
+{
+	
+float: right;
+vertical-align: middle;
+width: 300px;
+}
+
+div.project {
+min-width: 0px;
+font-family: 'Times New Roman';
+background-color: #777777;
+text-align: justify;
+padding: 15px;
+display: inline-block;
+vertical-align: top;
+margin: 1% auto;
+	border-style: ridge;
+	-moz-box-shadow: 5px 5px 5px 5px #0000FF;
+	-webkit-box-shadow: 5px 5px 5px 5px #0000FF;
+	box-shadow: 5px 5px 5px 5px #0000FF;
+height: 100%;
+width: 80%;
+}
+img.logo
+{
+	width: 85px;
+height: 85px;
+
+	padding: 10px 10px 0px 0px;
+margin: 0 auto;
+text-align: center;
+vertical-align: middle;
+
+}
+table.somya
+{
+	width: 95%;
+	margin: 0 auto;
+} 
+h1.beginner
+{
+	font-size: 52px;
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	color: yellow;
+}
+td.somya-l
+{text-align: center;
+border: 0;
+width: 45%;
+height: 150px;
+	padding: 10px 10px 50px 25px;
+	
+}
+td.somya-r
+{text-align: center;
+border: 0;
+height: 150px;
+
+width:45%;
+	padding: 10px 10px 25px 50px;
+	
+}
+td.somya
+{text-align: center;
+border: 0;
+height: 170px;
+	padding: 10px;
+	
+}
+
+
+td.img
+{
+	width: 35%;
+	height: 100%;
+	text-align:center;
+	vertical-align:middle;
+
+margin: 0px 0px 30px 30px;
+		
+}
+td.desc
+{
+	margin: 0 auto;
+	
+	display: block;
+	
+}
+img.project-img{
+width:190px;
+height:190px;
+
+	display: inline;
+
+
+}
+h1.stylised
+{
+	vertical-align:middle;
+	color: white;
+	position:absolute;
+	top:225px;
+	left:15%;
+	font-size: 50px;
+	font-family: 'Pacifico';
+	font-weight: light;
+}
+hr.stylised{
+	margin: 0px auto;
+	border: 2px double white;
+	position: absolute;
+	top:340px;
+	left: 13%;
+	width: 74%;
+	
+} 
+h2.stylised
+{
+	width:50%;
+	vertical-align:middle;
+	color: white;
+	position:absolute;
+	top:340px;
+	right:15%;
+	font-size: 25px;
+	font-family: 'Times New Roman';
+	font-weight: light;
+	text-align: right;
+}
+p.ssubtopic,p.subtopic,p.sbtopic
+{
+	font-size: 28px;
+	font-family: Cursive;
+	color: White;
+	
+}
+p.sbtopic
+{
+	width: 85%;
+}
+p.ssubtopic
+{
+	color: #999999;
+}
+h2.stylised2
+{
+	width:50%;
+	vertical-align:middle;
+	color: white;
+	position:absolute;
+	top:370px;
+	right:15%;
+	font-size: 25px;
+	font-family: 'Brush Script m7';
+	font-weight: light;
+	text-align: right;
+}
+#start
+{
+	width:100%;
+	vertical-align: center;
+	text-align: center;
+	height:700px;
+	background-image: url("images/layout1.jpg");
+	background-repeat:no-repeat;
+	background-position: center center;
+}
+h4.language
+{
+	font-size: 10px;
+	text-align: left;
+	color:#DC143C;
+	
+display: block;
+	font-family: 'Press Start 2P', cursive, 'Times New Roman';
+}
+
+h4.lang
+{
+	font-size: 15px;
+	font-weight:bold;
+	color:white;
+	text-align: center;
+	
+	font-family: 'Press Start 2P', cursive, 'Times New Roman';
+}
+p.description
+{
+
+	font-family: Calibri;
+}
+h3
+{
+font-family: 'Monotype Corsiva';
+text-align: center;
+font-weight: bold;
+font-size:30px;
+color: #111111;
+	text-shadow: 2px 5px 7px #111111;
+}
+
+td.tile
+{
+	width: 200px;
+	height: 300px;
+	border: 1px dashed blue;
+	text-align: center;
+	background-color:white;
+	vertical-align:middle;
+	border-style: ridge;
+	-moz-box-shadow: 5px 5px 5px 5px #00FF00;
+	-webkit-box-shadow: 5px 5px 5px 5px #00FF00;
+	box-shadow: 5px 5px 5px 5px #00FF00;
+	background-color: #333333;
+	
+	
+}
+p.subsubtopic
+{
+	font-family: cursive;
+	
+	font-size: 20px;
+	color: gray;
+	text-align: center;
+	
+}
+h4.yti,h4.cs
+{
+	font-size: 10px;
+	text-shadow: 2px 5px 7px #111111;
+	text-align: right;	
+	color:Red	;
+	font-family: 'my puma', cursive, 'Times New Roman';
+}
+h4.wip,h4.uc,h4.iip
+{
+	font-size: 10px;
+	text-shadow: 2px 5px 7px #111111;
+	text-align: right;	
+	color:Orange	;
+	font-family: 'my puma', cursive, 'Times New Roman';
+}
+h1.heading
+{
+	font-family: calibri;
+	font-size: 50px;
+	font-weight: bold;
+}
+h4.cd,h4.good
+{
+	font-size: 10px;
+	text-shadow: 2px 5px 7px #111111;
+	text-align: right;	
+	color:#228B22	;
+	font-family: 'my puma', cursive, 'Times New Roman';
+}
